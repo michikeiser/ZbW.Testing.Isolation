@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Testing.Isolation.Lib", "ZbW.Testing.Isolation.Lib\ZbW.Testing.Isolation.Lib.csproj", "{6BE36343-3BDC-47FA-B989-EC11A20AF090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Testing.Isolation.Lib.UnitTests", "ZbW.Testing.Isolation.Lib.UnitTests\ZbW.Testing.Isolation.Lib.UnitTests.csproj", "{62066157-26A0-4326-83CE-1420A47090B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE36343-3BDC-47FA-B989-EC11A20AF090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE36343-3BDC-47FA-B989-EC11A20AF090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE36343-3BDC-47FA-B989-EC11A20AF090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE36343-3BDC-47FA-B989-EC11A20AF090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62066157-26A0-4326-83CE-1420A47090B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62066157-26A0-4326-83CE-1420A47090B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62066157-26A0-4326-83CE-1420A47090B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62066157-26A0-4326-83CE-1420A47090B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC60EC42-9E19-4CA8-9BAD-76237DB64668}
+	EndGlobalSection
+EndGlobal
